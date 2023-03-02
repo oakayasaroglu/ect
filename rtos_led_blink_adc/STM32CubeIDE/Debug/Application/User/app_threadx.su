@@ -1,0 +1,4 @@
+/home/me/ekinoks/ADC_DMA_Transfer/Src/app_threadx.c:76:6:App_ThreadX_Init	56	static
+/home/me/ekinoks/ADC_DMA_Transfer/Src/app_threadx.c:98:6:MX_ThreadX_Init	8	static
+/home/me/ekinoks/ADC_DMA_Transfer/Src/app_threadx.c:112:6:blink_blue_led_entry	16	static
+/home/me/ekinoks/ADC_DMA_Transfer/Src/app_threadx.c:124:6:calculate_blink_rate_entry	24	static
